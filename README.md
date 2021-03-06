@@ -20,6 +20,16 @@ To run the baseline experiments run the following shell scripts in the SAC and T
 ./run_td3_nohup.sh
 ./run_sac_nohup.sh
 ```
+Inser the number of aviable GPU's as:
+```
+num_devices=2 # Enter the number of available GPU's
+
+```
+For enabling noise tests add the following line to the respective experiment:
+```
+	--noisy_testing "True" \
+```
+
 
 # Acknowledgements
 The TD3 and SAC code was closely based on [TD3-SAC](https://github.com/honghaow/FORK).
