@@ -24,7 +24,7 @@ Insert the number of aviable GPU's as:
 ```
 num_devices=2 # Enter the number of available GPU's
 ```
-For enabling noise tests add the following line to the respective experiment:
+For enabling noise tests add the following line to the shell script respective experiment:
 ```
 --noisy_testing "True" \
 ```
