@@ -10,7 +10,12 @@ Neural Netorks are trained using Pytorch 1.7.1+cu110 and Python 3.8.7.
 
 
 # Usage
-To run the experiments run the shell scripts in the SAC and TD3 folder, respectively.
+To run the experiments using Q-MLP actor policies run the following shell scripts in the SAC and TD3 folder, respectively.
+```
+./run_Q_td3_nohup.sh
+./run_Q_sac_nohup.sh
+```
+To run the baseline experiments run the following shell scripts in the SAC and TD3 folder, respectively.
 ```
 ./run_td3_nohup.sh
 ./run_sac_nohup.sh
