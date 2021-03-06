@@ -23,5 +23,5 @@ To run the baseline experiments run the following shell scripts in the SAC and T
 
 # Acknowledgements
 The TD3 and SAC code was closely based on [TD3-SAC](https://github.com/honghaow/FORK).
-The TD3 code was based on [TD3](https://github.com/sfujim/TD3.
+The TD3 code was based on [TD3](https://github.com/sfujim/TD3).
 The SAC code was based on [SAC1](https://github.com/denisyarats/pytorch_sac) and [SAC2](https://github.com/vitchyr/rlkit).
