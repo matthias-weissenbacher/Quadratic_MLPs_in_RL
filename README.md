@@ -1,6 +1,6 @@
 # Quadratic MLPs in Reinforcement Learning
 
-Source code and data for our accompanying paper "A  Quadratic  Actor  Network  for  Model-Free  Reinforcement  Learning". 
+Source code and data for our accompanying paper ["A  Quadratic  Actor  Network  for  Model-Free  Reinforcement  Learning"](https://arxiv.org/abs/2103.06617). 
 TD3 and SAC algorithms with Quadratic - MLP (Q-MLP) as  actor policy network.  If you use our code or data please cite the paper.
 
 # Requirements
